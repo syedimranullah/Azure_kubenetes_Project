@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+FROM ubuntu:22.04
 MAINTAINER imranullahsyed.dwh@gmail.com
 
 # Update package lists and install Apache HTTP Server, zip, and unzip
