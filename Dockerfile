@@ -20,4 +20,4 @@ RUN apt update -y && \
 CMD ["/usr/sbin/apache2ctl", "-D", "FOREGROUND"]
 
 # Expose ports
-EXPOSE 80
+EXPOSE 80 22
